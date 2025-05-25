@@ -38,3 +38,5 @@
 [Sun May 25 23:52:40 +01 2025] ✅ Pushed commit for '2-nested_tag.scss' to branch 'main'
 [Sun May 25 23:52:40 +01 2025] ✅ Committed '3-mixin_margins.scss' with message 'pushing 3-mixin_margins to the repo with all files ready for ALX'
 [Sun May 25 23:52:43 +01 2025] ✅ Pushed commit for '3-mixin_margins.scss' to branch 'main'
+[Sun May 25 23:52:43 +01 2025] ✅ Committed 'git-push-log.txt' with message 'pushing git-push-log to the repo with all files ready for ALX'
+[Sun May 25 23:52:46 +01 2025] ✅ Pushed commit for 'git-push-log.txt' to branch 'main'
